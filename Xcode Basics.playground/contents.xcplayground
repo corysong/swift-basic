@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Variables and Constants 1'/>
+        <page name='String Interpolation 2'/>
+        <page name='Integer and Floating-Point Conversion 3'/>
+        <page name='Booleans 4'/>
+        <page name='Tuples 5'/>
+        <page name='Optionals 6'/>
+        <page name='Strings and Characters 7'/>
+        <page name='Collection Types 8'/>
+        <page name='Control Flow 9'/>
+        <page name='Functions 10'/>
+        <page name='Enumerations 11'/>
+        <page name='Classes and Structures 12'/>
+        <page name='Properties 13'/>
+        <page name='Methods 14'/>
+        <page name='Subscripts 15'/>
+        <page name='Inheritance 16'/>
+    </pages>
+</playground>
